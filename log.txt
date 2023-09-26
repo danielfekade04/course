@@ -1,3 +1,2 @@
-this is the first log file editing
-second edit
-third edit
+first edit
+
